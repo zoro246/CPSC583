@@ -1,1 +1,3 @@
 "# CPSC583" 
+(1)	Interactive Chart: The first visualization is the chart. This chart has two main features, which are sorting data in alphabetical order/numerical order and highlighting selected row for better view for the user.
+(2)	Interactive Bar Graph: This interactive bar graph allows users to better analyze the data by having dotted line across the graph when a data set is hovered over by a mouse. This allows users to directly compare visually between other data. When mouse is not hovered over a bar, it displays the percentage death rates on top of the bar. However, when mouse is hovered over the bar the difference between other bars are shown on the top of the bar in orange.
